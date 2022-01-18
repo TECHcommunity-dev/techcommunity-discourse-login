@@ -1,2 +1,2 @@
 # techcommunity-discourse-login
-Theme component to customize the Login form
+Theme Component contains UI changes for the discourse login form
