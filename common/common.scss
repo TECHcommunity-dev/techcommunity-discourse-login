@@ -1,5 +1,9 @@
 //techcommunity-discourse-login - common-scss
 
+
+body.login-page .d-header .home-logo-wrapper-outlet {
+    width: auto !important;
+}
 /* Apply CSS for the “Create your account” and "I forgot my password" links on login form [Added by Ajroddin; Date: 10/09/2021] */
 .login-modal.d-modal {
     //Style for “Create your account” link 
